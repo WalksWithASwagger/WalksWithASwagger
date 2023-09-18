@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WalksWithASwagger
 - 👀 I’m interested in Midjourney, Discord, AI, Photography, webdev, Podcasting
-- 🌱 I’m currently learning Python, AI, Brew, Conda, Terminal, Voice cloning
-- 💞️ I’m looking to collaborate on Midjourney automotation, voice cloning
+- 🌱 I’m currently learning Python, React Native, Flask, Flutter, CSS, JS, HTML, JSON.
+- 💞️ I’m looking to collaborate on Midjourney automotation, voice cloning, open-source transit.
 - 📫 How to reach me via my website: www.kriskrug.co
 
 <!---
