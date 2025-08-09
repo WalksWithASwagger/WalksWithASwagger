@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @WalksWithASwagger
-- 👀 I’m interested in Midjourney, Discord, AI, Photography, webdev, Podcasting
-- 🌱 I’m currently learning Python, React Native, Flask, Flutter, CSS, JS, HTML, JSON.
-- 💞️ I’m looking to collaborate on Midjourney automotation, voice cloning, open-source transit.
-- 📫 How to reach me via my website: www.kriskrug.co
+I’m KK (Kris Krüg), a creative technologist, AI community builder, and open-source advocate based in Vancouver, Canada. My work bridges generative AI, digital storytelling, ethical tech, and collaborative innovation. This README introduces who I am, what I do, and how you can get involved with my projects, code, and community.
 
-<!---
-WalksWithASwagger/WalksWithASwagger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’ve been building websites and experimenting with open-source software since the mid-1990s, running one of the early open-source startups in Silicon Valley and evangelizing digital empowerment long before it was trendy. My journey has taken me from environmental photojournalism and citizen media to AI-driven storytelling, open data, and community tech leadership. I’m passionate about making technology accessible, inclusive, and empowering—especially for underrepresented voices and creative communities.
