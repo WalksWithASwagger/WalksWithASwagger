@@ -12,3 +12,5 @@ I’m KK. I make photographs, build things for the web, and host the [Vancouver 
 </picture>
 
 I founded [BC + AI Ecosystem Association](https://bc-ai.ca/) and curate the [Futureproof Festival of AI](https://www.futureproof.website/). My [personal site](https://kriskrug.co/) has the photographs, music, and other things that don’t come with a README.
+
+Find me on Bluesky at [@kriskrug.co](https://bsky.app/profile/kriskrug.co).
