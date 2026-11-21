@@ -1,16 +1,15 @@
-# Kris Krüg
+# Hey, I’m Kris Krüg.
 
-I’m KK. I make photographs, build things for the web, and host the [Vancouver AI Meetup](https://bc-ai.ca/communities/vancouver-ai). Two of the things I’ve helped put on the internet are a map of the BC AI community and a boarding pass for a flight through time. Pick your destination.
+Most people call me KK. I’m a photographer, educator, and community builder in Vancouver. I got my start on the web building Drupal sites with friends at Bryght. These days I’m interested in who gets a say in how AI changes the places we live and the things we make.
 
-* **[Skywhale Airways](https://skywhaleairways.com/)**. Suzy Easton and I made *I AM NOMAD* for the AI Film Club’s retro challenge. Watch the film, then wander through our psychedelic airport in WebGL. [Browse the original build](https://github.com/WalksWithASwagger/skywhale-airways).
-* **[The Observatory](https://official.observer/)**. Look up a project, follow a connection, and see who else is working on the same thing across BC + AI, ED + AI, and Futureproof. [Explore the graph data](https://github.com/WalksWithASwagger/official-observer/tree/main/data).
-* **[Wedges](https://wedges.dev/)**. What do you keep changing back after an AI edits your work? These exercises help you put words to your taste and take those notes from one tool to the next. It grew out of [Both Hands Full](https://www.bothhandsfull.com).
+* **[Futureproof Festival of AI](https://www.futureproof.website/)** is the festival I curate in Vancouver. In 2026, Brewster Kahle joined us from the Internet Archive, and Philippe Pasquier played live AI music at the planetarium. [Explore the program](https://www.futureproof.website/program/).
+* **[BC + AI Ecosystem Association](https://bc-ai.ca/)** is the nonprofit I founded and lead. We run a film club, an animation accelerator, and a Responsible AI Professional program for people making decisions they’ll have to answer for.
+* **[Vancouver AI Meetup](https://bc-ai.ca/communities/vancouver-ai)** is where you can actually find me. I host it every month. Come show us what you’re making, especially if it’s still a little busted.
+* **[kriskrug.co](https://kriskrug.co/)** is my home on the web. Start with [the photographs](https://kriskrug.co/photography/) if you want to see what I’ve been pointing a camera at all these years.
+
+Find me on Bluesky at [@kriskrug.co](https://bsky.app/profile/kriskrug.co).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="glancecard/profile-dark.svg">
   <img src="glancecard/profile-light.svg" width="880" alt="Kris Krüg’s GitHub activity, contribution history, and public repositories">
 </picture>
-
-I founded [BC + AI Ecosystem Association](https://bc-ai.ca/) and curate the [Futureproof Festival of AI](https://www.futureproof.website/). My [personal site](https://kriskrug.co/) has the photographs, music, and other things that don’t come with a README.
-
-Find me on Bluesky at [@kriskrug.co](https://bsky.app/profile/kriskrug.co).
