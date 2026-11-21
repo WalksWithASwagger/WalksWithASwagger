@@ -6,4 +6,9 @@ I’m KK. I make photographs, build things for the web, and host the [Vancouver 
 * **[The Observatory](https://official.observer/)**. Look up a project, follow a connection, and see who else is working on the same thing across BC + AI, ED + AI, and Futureproof. [Explore the graph data](https://github.com/WalksWithASwagger/official-observer/tree/main/data).
 * **[Wedges](https://wedges.dev/)**. What do you keep changing back after an AI edits your work? These exercises help you put words to your taste and take those notes from one tool to the next. It grew out of [Both Hands Full](https://www.bothhandsfull.com).
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="glancecard/profile-dark.svg">
+  <img src="glancecard/profile-light.svg" width="880" alt="Kris Krüg’s GitHub activity, contribution history, and public repositories">
+</picture>
+
 I founded [BC + AI Ecosystem Association](https://bc-ai.ca/) and curate the [Futureproof Festival of AI](https://www.futureproof.website/). My [personal site](https://kriskrug.co/) has the photographs, music, and other things that don’t come with a README.
