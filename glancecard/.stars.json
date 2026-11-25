@@ -1,13 +1,13 @@
 {
  "repos": {
-  "WalksWithASwagger/cmvan-keynote": {"at":"2026-11-24T15:20:37.172Z","count":2,"weeks":[{"week":"2026-05-03","days":[0,1,1,0,0,0,0]}]},
-  "WalksWithASwagger/kriskrug-wp": {"at":"2026-11-24T15:20:37.172Z","count":2,"weeks":[{"week":"2026-11-08","days":[0,0,0,0,1,0,0]},{"week":"2026-11-15","days":[1,0,0,0,0,0,0]}]},
+  "WalksWithASwagger/cmvan-keynote": {"at":"2026-11-25T15:21:07.905Z","count":2,"weeks":[{"week":"2026-05-03","days":[0,1,1,0,0,0,0]}]},
+  "WalksWithASwagger/kriskrug-wp": {"at":"2026-11-25T15:21:07.905Z","count":1,"weeks":[{"week":"2026-11-15","days":[1,0,0,0,0,0,0]}]},
   "WalksWithASwagger/michelle-diamond": {"at":"2026-11-24T15:20:37.172Z","count":1,"weeks":[{"week":"2026-11-08","days":[0,0,0,0,1,0,0]}]},
-  "WalksWithASwagger/quran-fractal": {"at":"2026-11-24T15:20:37.172Z","count":1,"weeks":[{"week":"2026-04-12","days":[0,1,0,0,0,0,0]}]},
+  "WalksWithASwagger/quran-fractal": {"at":"2026-11-25T15:21:07.905Z","count":1,"weeks":[{"week":"2026-04-12","days":[0,1,0,0,0,0,0]}]},
   "WalksWithASwagger/rap-marketing": {"at":"2026-11-24T15:20:37.172Z","count":1,"weeks":[{"week":"2026-11-08","days":[0,0,0,0,1,0,0]}]},
-  "WalksWithASwagger/skywhale-airways": {"at":"2026-11-24T15:20:37.172Z","count":1,"weeks":[{"week":"2026-05-31","days":[0,0,1,0,0,0,0]}]},
-  "WalksWithASwagger/spektorAI": {"at":"2026-11-24T15:20:37.172Z","count":1,"weeks":[{"week":"2026-05-17","days":[0,1,0,0,0,0,0]}]},
-  "WalksWithASwagger/whisperforge": {"at":"2026-11-24T15:20:37.172Z","count":5,"weeks":[{"week":"2024-11-10","days":[1,1,0,0,0,0,0]},{"week":"2024-11-17","days":[1,0,0,0,0,0,0]},{"week":"2025-11-30","days":[0,0,0,0,0,0,1]},{"week":"2026-03-22","days":[1,0,0,0,0,0,0]}]},
-  "WalksWithASwagger/winamp": {"at":"2026-11-24T15:20:37.172Z","count":1,"weeks":[{"week":"2026-10-04","days":[0,0,0,0,0,1,0]}]}
+  "WalksWithASwagger/skywhale-airways": {"at":"2026-11-25T15:21:07.905Z","count":1,"weeks":[{"week":"2026-05-31","days":[0,0,1,0,0,0,0]}]},
+  "WalksWithASwagger/spektorAI": {"at":"2026-11-25T15:21:07.905Z","count":1,"weeks":[{"week":"2026-05-17","days":[0,1,0,0,0,0,0]}]},
+  "WalksWithASwagger/whisperforge": {"at":"2026-11-25T15:21:07.905Z","count":5,"weeks":[{"week":"2024-11-10","days":[1,1,0,0,0,0,0]},{"week":"2024-11-17","days":[1,0,0,0,0,0,0]},{"week":"2025-11-30","days":[0,0,0,0,0,0,1]},{"week":"2026-03-22","days":[1,0,0,0,0,0,0]}]},
+  "WalksWithASwagger/winamp": {"at":"2026-11-25T15:21:07.905Z","count":1,"weeks":[{"week":"2026-10-04","days":[0,0,0,0,0,1,0]}]}
  }
 }
